@@ -1,0 +1,17 @@
+C:\Users\2022\Desktop\ConsoleAppler\XMLve Json\bin\Debug\net6.0\XMLve Json.exe
+C:\Users\2022\Desktop\ConsoleAppler\XMLve Json\bin\Debug\net6.0\XMLve Json.deps.json
+C:\Users\2022\Desktop\ConsoleAppler\XMLve Json\bin\Debug\net6.0\XMLve Json.runtimeconfig.json
+C:\Users\2022\Desktop\ConsoleAppler\XMLve Json\bin\Debug\net6.0\XMLve Json.dll
+C:\Users\2022\Desktop\ConsoleAppler\XMLve Json\bin\Debug\net6.0\XMLve Json.pdb
+C:\Users\2022\Desktop\ConsoleAppler\XMLve Json\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\2022\Desktop\ConsoleAppler\XMLve Json\obj\Debug\net6.0\XMLve Json.csproj.AssemblyReference.cache
+C:\Users\2022\Desktop\ConsoleAppler\XMLve Json\obj\Debug\net6.0\XMLve Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022\Desktop\ConsoleAppler\XMLve Json\obj\Debug\net6.0\XMLve Json.AssemblyInfoInputs.cache
+C:\Users\2022\Desktop\ConsoleAppler\XMLve Json\obj\Debug\net6.0\XMLve Json.AssemblyInfo.cs
+C:\Users\2022\Desktop\ConsoleAppler\XMLve Json\obj\Debug\net6.0\XMLve Json.csproj.CoreCompileInputs.cache
+C:\Users\2022\Desktop\ConsoleAppler\XMLve Json\obj\Debug\net6.0\XMLve Json.csproj.Up2Date
+C:\Users\2022\Desktop\ConsoleAppler\XMLve Json\obj\Debug\net6.0\XMLve Json.dll
+C:\Users\2022\Desktop\ConsoleAppler\XMLve Json\obj\Debug\net6.0\refint\XMLve Json.dll
+C:\Users\2022\Desktop\ConsoleAppler\XMLve Json\obj\Debug\net6.0\XMLve Json.pdb
+C:\Users\2022\Desktop\ConsoleAppler\XMLve Json\obj\Debug\net6.0\XMLve Json.genruntimeconfig.cache
+C:\Users\2022\Desktop\ConsoleAppler\XMLve Json\obj\Debug\net6.0\ref\XMLve Json.dll
